@@ -1,0 +1,2 @@
+module TeamMemberConnectionsHelper
+end

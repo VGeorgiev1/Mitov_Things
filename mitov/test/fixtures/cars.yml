@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: 1
+  model: MyString
+  date: 2018-06-25 23:08:06
+  manufactor_id: 1
+
+two:
+  number: 1
+  model: MyString
+  date: 2018-06-25 23:08:06
+  manufactor_id: 1
